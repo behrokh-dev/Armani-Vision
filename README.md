@@ -14,6 +14,7 @@ A modern, fully responsive Persian-language eyewear store landing page built wit
 <img width="1903" height="358" alt="Image" src="https://github.com/user-attachments/assets/2ef862aa-3025-49f7-87e1-01abc398940a" />
 <img width="1899" height="776" alt="Image" src="https://github.com/user-attachments/assets/be4c5fcd-59cb-4684-9203-b1358ae96444" />
 <img width="1903" height="604" alt="Image" src="https://github.com/user-attachments/assets/fe96729a-9cb0-406c-91ea-885f7adba7d4" />
+<img width="1897" height="474" alt="Image" src="https://github.com/user-attachments/assets/28fe9c1a-4af0-45f4-bb5f-5effcc5ff8b1" />
 
 ---
 ## ✨ Features
